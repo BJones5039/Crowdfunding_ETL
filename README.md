@@ -19,3 +19,6 @@ Create a new PostgreSQL database named crowdfunding_db.
 Use the schema to create tables in the correct order to handle foreign keys.
 Import each CSV file into its corresponding SQL table.
 Verify the correctness of data in each table using SELECT statements.
+
+
+Please note assistance has been received from google search, in class assignments, AskBCS Learning Assistants, and follow classmates via Slack.
